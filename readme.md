@@ -5,13 +5,13 @@
 - creer une github-page
 
 ### Objectif spécifique
-> Créer une association
+Créer une association
 Créer un projet d'équipe
 Créer un backlog
-> Création des issues (une tâche) 
+Création des issues (une tâche) 
 - Dans un dépot 
 - Dans le projet
-> Création de pull request
+Création de pull request
 Processus d'acceptation d'un issue
 - Commit individuel afin de résoudre des issues
 - Branche individuelle poussée sur le repo de github
